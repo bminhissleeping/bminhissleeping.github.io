@@ -1,7 +1,7 @@
 baseURL      = "https://bminhissleeping.github.io/"
 languageCode = "en-us"
 title        = "Hugo Theme Stack"
-
+publishDir = "docs"
     theme = "hugo-theme-stack"
 
 # Theme i18n support
