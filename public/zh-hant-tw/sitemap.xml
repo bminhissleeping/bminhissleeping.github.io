@@ -2,206 +2,206 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/zh-hant-tw/</loc>
+    <loc>https://demo.stack.jimmycai.com/zh-hant-tw/</loc>
     <lastmod>2026-01-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://demo.stack.jimmycai.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/"
+                href="https://demo.stack.jimmycai.com/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/"
+                href="https://demo.stack.jimmycai.com/ja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hant-tw"
-                href="http://localhost:1313/zh-hant-tw/"
+                href="https://demo.stack.jimmycai.com/zh-hant-tw/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh-hant-tw/page/</loc>
+    <loc>https://demo.stack.jimmycai.com/zh-hant-tw/page/</loc>
     <lastmod>2026-01-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/page/"
+                href="https://demo.stack.jimmycai.com/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/page/"
+                href="https://demo.stack.jimmycai.com/zh/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/page/"
+                href="https://demo.stack.jimmycai.com/ja/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hant-tw"
-                href="http://localhost:1313/zh-hant-tw/page/"
+                href="https://demo.stack.jimmycai.com/zh-hant-tw/page/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh-hant-tw/%E9%97%9C%E6%96%BC/</loc>
+    <loc>https://demo.stack.jimmycai.com/zh-hant-tw/%E9%97%9C%E6%96%BC/</loc>
     <lastmod>2026-01-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/about/"
+                href="https://demo.stack.jimmycai.com/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/%E5%85%B3%E4%BA%8E/"
+                href="https://demo.stack.jimmycai.com/zh/%E5%85%B3%E4%BA%8E/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/%E3%81%93%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/"
+                href="https://demo.stack.jimmycai.com/ja/%E3%81%93%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hant-tw"
-                href="http://localhost:1313/zh-hant-tw/%E9%97%9C%E6%96%BC/"
+                href="https://demo.stack.jimmycai.com/zh-hant-tw/%E9%97%9C%E6%96%BC/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh-hant-tw/archives/</loc>
+    <loc>https://demo.stack.jimmycai.com/zh-hant-tw/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/archives/"
+                href="https://demo.stack.jimmycai.com/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/archives/"
+                href="https://demo.stack.jimmycai.com/zh/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/archives/"
+                href="https://demo.stack.jimmycai.com/ja/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hant-tw"
-                href="http://localhost:1313/zh-hant-tw/archives/"
+                href="https://demo.stack.jimmycai.com/zh-hant-tw/archives/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh-hant-tw/categories/</loc>
+    <loc>https://demo.stack.jimmycai.com/zh-hant-tw/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://demo.stack.jimmycai.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/categories/"
+                href="https://demo.stack.jimmycai.com/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/categories/"
+                href="https://demo.stack.jimmycai.com/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hant-tw"
-                href="http://localhost:1313/zh-hant-tw/categories/"
+                href="https://demo.stack.jimmycai.com/zh-hant-tw/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh-hant-tw/tags/</loc>
+    <loc>https://demo.stack.jimmycai.com/zh-hant-tw/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://demo.stack.jimmycai.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/tags/"
+                href="https://demo.stack.jimmycai.com/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/tags/"
+                href="https://demo.stack.jimmycai.com/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hant-tw"
-                href="http://localhost:1313/zh-hant-tw/tags/"
+                href="https://demo.stack.jimmycai.com/zh-hant-tw/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh-hant-tw/categories/documentation/</loc>
+    <loc>https://demo.stack.jimmycai.com/zh-hant-tw/categories/documentation/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/documentation/"
+                href="https://demo.stack.jimmycai.com/categories/documentation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/categories/documentation/"
+                href="https://demo.stack.jimmycai.com/zh/categories/documentation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/categories/documentation/"
+                href="https://demo.stack.jimmycai.com/ja/categories/documentation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hant-tw"
-                href="http://localhost:1313/zh-hant-tw/categories/documentation/"
+                href="https://demo.stack.jimmycai.com/zh-hant-tw/categories/documentation/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh-hant-tw/search/</loc>
+    <loc>https://demo.stack.jimmycai.com/zh-hant-tw/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/search/"
+                href="https://demo.stack.jimmycai.com/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/search/"
+                href="https://demo.stack.jimmycai.com/zh/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/search/"
+                href="https://demo.stack.jimmycai.com/ja/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hant-tw"
-                href="http://localhost:1313/zh-hant-tw/search/"
+                href="https://demo.stack.jimmycai.com/zh-hant-tw/search/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh-hant-tw/%E9%8F%88%E6%8E%A5/</loc>
+    <loc>https://demo.stack.jimmycai.com/zh-hant-tw/%E9%8F%88%E6%8E%A5/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/links/"
+                href="https://demo.stack.jimmycai.com/links/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/%E9%93%BE%E6%8E%A5/"
+                href="https://demo.stack.jimmycai.com/zh/%E9%93%BE%E6%8E%A5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/%E3%83%AA%E3%83%B3%E3%82%AF/"
+                href="https://demo.stack.jimmycai.com/ja/%E3%83%AA%E3%83%B3%E3%82%AF/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hant-tw"
-                href="http://localhost:1313/zh-hant-tw/%E9%8F%88%E6%8E%A5/"
+                href="https://demo.stack.jimmycai.com/zh-hant-tw/%E9%8F%88%E6%8E%A5/"
                 />
   </url>
 </urlset>
