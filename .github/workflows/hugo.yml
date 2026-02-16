@@ -1,0 +1,35 @@
+name: Deploy Hugo site to Pages
+
+on:
+  push:
+    branches:
+      - main # Kiểm tra lại Terminal xem nhánh của ông là main hay master nhé
+
+# CẤP QUYỀN: Bắt buộc phải có để action có thể push thư mục public lên nhánh gh-pages
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive # Để tải theme Stack của ông
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true # Theme Stack cần bản này
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
